@@ -10,4 +10,6 @@ File FIFU is a file encryptor and decryptor that uses military grade encryption.
 
 
    NOTE: Encrypted or decrypted files are saved to the same directory where File FIFU is located with a .enc extension.
+   
 
+Problems? Contact me on discord .gregortv
